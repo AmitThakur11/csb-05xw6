@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "https://amitthakur11.github.io/csb-05xw6/static/css/main.4e1c5a26.chunk.css",
+    "main.js": "https://amitthakur11.github.io/csb-05xw6/static/js/main.b3461849.chunk.js",
+    "main.js.map": "https://amitthakur11.github.io/csb-05xw6/static/js/main.b3461849.chunk.js.map",
+    "runtime-main.js": "https://amitthakur11.github.io/csb-05xw6/static/js/runtime-main.0260449c.js",
+    "runtime-main.js.map": "https://amitthakur11.github.io/csb-05xw6/static/js/runtime-main.0260449c.js.map",
+    "static/js/2.6a76432a.chunk.js": "https://amitthakur11.github.io/csb-05xw6/static/js/2.6a76432a.chunk.js",
+    "static/js/2.6a76432a.chunk.js.map": "https://amitthakur11.github.io/csb-05xw6/static/js/2.6a76432a.chunk.js.map",
+    "index.html": "https://amitthakur11.github.io/csb-05xw6/index.html",
+    "static/css/main.4e1c5a26.chunk.css.map": "https://amitthakur11.github.io/csb-05xw6/static/css/main.4e1c5a26.chunk.css.map",
+    "static/js/2.6a76432a.chunk.js.LICENSE.txt": "https://amitthakur11.github.io/csb-05xw6/static/js/2.6a76432a.chunk.js.LICENSE.txt",
+    "static/media/fire.d76bd78e.svg": "https://amitthakur11.github.io/csb-05xw6/static/media/fire.d76bd78e.svg",
+    "static/media/history.d08c80da.svg": "https://amitthakur11.github.io/csb-05xw6/static/media/history.d08c80da.svg",
+    "static/media/home.3a7f5993.svg": "https://amitthakur11.github.io/csb-05xw6/static/media/home.3a7f5993.svg",
+    "static/media/library.23011a81.svg": "https://amitthakur11.github.io/csb-05xw6/static/media/library.23011a81.svg",
+    "static/media/play_list.67d47813.svg": "https://amitthakur11.github.io/csb-05xw6/static/media/play_list.67d47813.svg",
+    "static/media/recommend.546d3536.svg": "https://amitthakur11.github.io/csb-05xw6/static/media/recommend.546d3536.svg",
+    "static/media/search.d31d836d.svg": "https://amitthakur11.github.io/csb-05xw6/static/media/search.d31d836d.svg",
+    "static/media/three-dot.c795f4c1.svg": "https://amitthakur11.github.io/csb-05xw6/static/media/three-dot.c795f4c1.svg",
+    "static/media/trending.e9cee3ab.svg": "https://amitthakur11.github.io/csb-05xw6/static/media/trending.e9cee3ab.svg",
+    "static/media/user.f1113e86.svg": "https://amitthakur11.github.io/csb-05xw6/static/media/user.f1113e86.svg",
+    "static/media/watch-later.349aa150.svg": "https://amitthakur11.github.io/csb-05xw6/static/media/watch-later.349aa150.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0260449c.js",
+    "static/js/2.6a76432a.chunk.js",
+    "static/css/main.4e1c5a26.chunk.css",
+    "static/js/main.b3461849.chunk.js"
+  ]
+}
